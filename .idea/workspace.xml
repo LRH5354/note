@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2558465-a290-47d7-b440-2876806a7898" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../笔记/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../笔记/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../笔记/笔记心得/将idea本地项目推行到github云端的" afterPath="$PROJECT_DIR$/../笔记/笔记心得/将idea本地项目推行到github云端的" />
-    </list>
+    <list default="true" id="f2558465-a290-47d7-b440-2876806a7898" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../笔记/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -209,7 +206,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520748173660</updated>
-      <workItem from="1520748178243" duration="663000" />
+      <workItem from="1520748178243" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="笔记">
       <created>1520748550328</created>
@@ -225,11 +222,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520748564934</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="笔记">
+      <created>1520748849761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520748849761</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="663000" />
+    <option name="totallyTimeSpent" value="703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="253" y="135" width="1400" height="1102" extended-state="0" />
