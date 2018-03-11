@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2558465-a290-47d7-b440-2876806a7898" name="Default" comment="" />
+    <list default="true" id="f2558465-a290-47d7-b440-2876806a7898" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../笔记/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../笔记/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../笔记/笔记心得/将idea本地项目推行到github云端的" afterPath="$PROJECT_DIR$/../笔记/笔记心得/将idea本地项目推行到github云端的" />
+    </list>
     <ignored path="$PROJECT_DIR$/../笔记/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +14,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="将idea本地项目推行到github云端的" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../笔记/笔记心得/将idea本地项目推行到github云端的">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../笔记" />
@@ -35,10 +49,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="74" />
-    <option name="y" value="177" />
+    <option name="x" value="253" />
+    <option name="y" value="135" />
     <option name="width" value="1400" />
-    <option name="height" value="781" />
+    <option name="height" value="1102" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -195,7 +209,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520748173660</updated>
-      <workItem from="1520748178243" duration="379000" />
+      <workItem from="1520748178243" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="笔记">
       <created>1520748550328</created>
@@ -204,14 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1520748550328</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="笔记">
+      <created>1520748564934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520748564934</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="379000" />
+    <option name="totallyTimeSpent" value="663000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="177" width="1400" height="781" extended-state="0" />
+    <frame x="253" y="135" width="1400" height="1102" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -260,7 +281,7 @@
     <entry file="file://$PROJECT_DIR$/../笔记/笔记心得/将idea本地项目推行到github云端的">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
