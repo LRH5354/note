@@ -1,0 +1,26 @@
+http://blog.csdn.net/u011853294/article/details/53228720  学习网址
+
+此教程是准备将idea本地的项目上传到github上
+
+idea已经提供了比较友好的git界面，可以直接在里面进行add和commit操作，而不用在bash命令行下完成。
+首先是安装idea（废话）和安装git（idea需要用到） 注册github的账号（用于idea上登陆git）
+默认完成git的安装和git在idea中的配置
+
+进入正式的上传步骤
+
+在登陆github上新建一个repository。
+
+
+1、用IDEA打开项目，在vcs-import into version control- creat git repository 工具创建一个本地git仓库，默认路径就是项目文件夹。
+这时项目目录中的文件名会变成红色，表示文件没有提交到本地git。
+
+2、右击工程文件 ->git->add，这时文件名会变成绿色。
+
+3、右击工程文件 ->git->commit,提交到本地git。本地git已commit完毕。 此时表明文件已经更改到本地仓库（但是尚未上传到云端仓库）
+
+4、接下来开始将本地git项目上传到github上事先新建好的repository中，你可以点击项目的git-仓库-push
+ 做提交操作 这里注意  要定义你要提交的远程仓库地址 填入刚才所建的仓库网址即可push操作 即可将项目完整上传到云端仓库
+
+
+
+
